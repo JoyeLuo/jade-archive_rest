@@ -6,3 +6,6 @@ Jade archive aims to be a convenient and easy to use collection management so th
 
 ## Structure of the project
 The project revolves around its database and rest api (which this repository is all about) and several clients for the rest api will be develop (linux, windows, macOS, android, uwp, etc)
+
+## Installation
+_TO WRITE_
